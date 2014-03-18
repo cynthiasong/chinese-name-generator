@@ -1,4 +1,4 @@
-chinese-name-generator-for-girls
+chinese-name-generator
 ================================
 
 ###This is an easy program to generate pretty, dulcet and elegant Chinese names (female only for now)###
