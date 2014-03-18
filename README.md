@@ -4,10 +4,10 @@ chinese-name-generator
 ###This is an easy program to generate pretty, dulcet and elegant Chinese names (female only for now)###
 
 It takes into account the appearance, tone and meaning of each chosen character.
-To use this, please download the "chi_name_gen.rb" file and run it from your shell. Like this:
+To use this, please download the .exe for windows,
+  or run "chi_name_gen.rb" file from your shell. Like this:
 
 <code>
-  cd chi_name_gen
   ruby chi_name_gen.rb
 </code>
 
