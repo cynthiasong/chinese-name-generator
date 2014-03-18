@@ -100,7 +100,8 @@ end
 # let's do the job now
 gen_many(two_chars?, how_many)
 puts "Thank U! Hope you like the names!"
-
+puts "Please press Enter to exit~"
+gets.chomp
 
 
 
